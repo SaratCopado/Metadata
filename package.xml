@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <types>
-        <members>Contact-Contact Layout</members>
-        <name>Layout</name>
+        <members>Test_Muting_Permission_sets_Muted</members>
+        <name>MutingPermissionSet</name>
+    </types>
+    <types>
+        <members>Test_Muting_Permission_sets</members>
+        <name>PermissionSetGroup</name>
     </types>
     <version>64.0</version>
 </Package>
