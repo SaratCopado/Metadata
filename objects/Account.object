@@ -465,14 +465,15 @@
                     <label>Test 1</label>
                 </value>
                 <value>
-                    <fullName>Test 2</fullName>
-                    <default>false</default>
-                    <label>Test 2</label>
-                </value>
-                <value>
                     <fullName>Test 3</fullName>
                     <default>false</default>
                     <label>Test 3</label>
+                </value>
+                <value>
+                    <fullName>Test 2</fullName>
+                    <default>false</default>
+                    <isActive>false</isActive>
+                    <label>Test 2</label>
                 </value>
             </valueSetDefinition>
         </valueSet>
