@@ -1,11 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <PermissionSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <externalCredentialPrincipalAccesses>
+        <enabled>true</enabled>
+        <externalCredentialPrincipal>Test00147342-Test00147342</externalCredentialPrincipal>
+    </externalCredentialPrincipalAccesses>
     <hasActivationRequired>false</hasActivationRequired>
     <label>Experience Profile Manager</label>
     <license>Salesforce</license>
     <userPermissions>
         <enabled>true</enabled>
         <name>AccessCMC</name>
+    </userPermissions>
+    <userPermissions>
+        <enabled>true</enabled>
+        <name>ApprovalAdmin</name>
     </userPermissions>
     <userPermissions>
         <enabled>true</enabled>
@@ -26,6 +34,10 @@
     <userPermissions>
         <enabled>true</enabled>
         <name>IsotopeLEX</name>
+    </userPermissions>
+    <userPermissions>
+        <enabled>true</enabled>
+        <name>LifecycleManagementAPIUser</name>
     </userPermissions>
     <userPermissions>
         <enabled>true</enabled>
