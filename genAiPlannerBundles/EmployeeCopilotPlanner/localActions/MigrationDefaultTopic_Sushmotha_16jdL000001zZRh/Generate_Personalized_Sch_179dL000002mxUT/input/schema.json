@@ -1,0 +1,18 @@
+{
+  "required" : [ "Input:myContact" ],
+  "unevaluatedProperties" : false,
+  "properties" : {
+    "Input:myContact" : {
+      "title" : "Contact",
+      "description" : "text",
+      "lightning:type" : "lightning__recordInfoType",
+      "lightning:sObjectInfo" : {
+        "apiName" : "Contact"
+      },
+      "lightning:isPII" : false,
+      "copilotAction:isUserInput" : true
+    }
+  },
+  "lightning:type" : "lightning__objectType",
+  "lightning:textIndexed" : true
+}

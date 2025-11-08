@@ -1,0 +1,17 @@
+{
+  "required" : [ "searchQuery" ],
+  "unevaluatedProperties" : false,
+  "properties" : {
+    "searchQuery" : {
+      "title" : "Search Query",
+      "description" : "Free-text input that specifies what the user wants to search for.",
+      "const" : "",
+      "lightning:type" : "lightning__textType",
+      "einstein:description" : "Free-text string containing what the user wants to search for.",
+      "lightning:isPII" : false,
+      "copilotAction:isUserInput" : true
+    }
+  },
+  "lightning:type" : "lightning__objectType",
+  "lightning:textIndexed" : true
+}
