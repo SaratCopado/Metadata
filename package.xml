@@ -1,16 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <types>
-        <members>Account.Snapshot_Diff__c</members>
-        <name>CustomField</name>
-    </types>
-    <types>
         <members>TestReportFolder</members>
         <name>Report</name>
-    </types>
-    <types>
-        <members>Test</members>
-        <name>ReportType</name>
     </types>
     <version>65.0</version>
 </Package>
