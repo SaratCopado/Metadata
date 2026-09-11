@@ -450,6 +450,26 @@
         <trackFeedHistory>false</trackFeedHistory>
     </fields>
     <fields>
+        <fullName>TestBundle1__c</fullName>
+        <externalId>false</externalId>
+        <label>TestBundle1</label>
+        <length>18</length>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>TestBundle2__c</fullName>
+        <externalId>false</externalId>
+        <label>TestBundle2</label>
+        <length>18</length>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
         <fullName>Test__c</fullName>
         <label>Test 00133433</label>
         <required>false</required>
