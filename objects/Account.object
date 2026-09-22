@@ -499,6 +499,7 @@
     </fields>
     <fields>
         <fullName>TestBundle1__c</fullName>
+        <description>This is to test the performance on Bundles on MFP</description>
         <externalId>false</externalId>
         <label>TestBundle1</label>
         <length>18</length>
